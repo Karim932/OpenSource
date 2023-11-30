@@ -5,7 +5,7 @@ Bienvenue à tous, dans ce projet Open Source qui va avoir le but de créer la l
 
 ## Badges 
 
-![Stars](https://img.shields.io/badge/badge-0)
+[![Stars](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)](https://github.com/Karim932/OpenSource/tree/main/OpenSource)
 
 
 # Prenez la technologie qui vous plait, n'importe laquelle, et codez dans ce langage la commande ls(basique, ou avec des flags si ça vous fait eenvie)
