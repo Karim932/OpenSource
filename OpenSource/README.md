@@ -5,7 +5,7 @@ Bienvenue à tous, dans ce projet Open Source qui va avoir le but de créer la l
 
 ## Badges 
 
-![Stars](https://img.shields.io/github/stars/Karim932/https://github.com/Karim932/OpenSource/tree/main/OpenSource)
+![Stars](https://img.shields.io/github/stars/Karim932/https://github.com/Karim932/OpenSource)
 
 
 
